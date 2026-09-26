@@ -1,0 +1,16 @@
+Original Matrix:
+1100
+0010
+0001
+1000
+
+
+Reduced Matrix:
+0100
+0010
+0001
+1000
+
+
+Xor Count = 1
+x[1] = x[1] ^ x[0]    y[0]
