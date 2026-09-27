@@ -1,0 +1,258 @@
+[
+  {
+    "sample": 0,
+    "normalized": false,
+    "seed": 29260954,
+    "xor_count": 1930,
+    "naive_xor_count": 2574,
+    "timed_out": false,
+    "stage": "local_reduction",
+    "wall_seconds": 10.393969093000123,
+    "x": [
+      244,
+      78,
+      168,
+      237,
+      143,
+      210,
+      42,
+      176,
+      216
+    ],
+    "y": [
+      7,
+      5,
+      41,
+      234,
+      178,
+      160,
+      240,
+      235,
+      219
+    ]
+  },
+  {
+    "sample": 0,
+    "normalized": true,
+    "seed": 29260955,
+    "xor_count": 1765,
+    "naive_xor_count": 2204,
+    "timed_out": false,
+    "stage": "local_reduction",
+    "wall_seconds": 8.428705473999798,
+    "x": [
+      244,
+      78,
+      168,
+      237,
+      143,
+      210,
+      42,
+      176,
+      216
+    ],
+    "y": [
+      7,
+      5,
+      41,
+      234,
+      178,
+      160,
+      240,
+      235,
+      219
+    ]
+  },
+  {
+    "sample": 1,
+    "normalized": false,
+    "seed": 29260956,
+    "xor_count": 1874,
+    "naive_xor_count": 2630,
+    "timed_out": false,
+    "stage": "local_reduction",
+    "wall_seconds": 10.062791677999485,
+    "x": [
+      94,
+      225,
+      189,
+      10,
+      170,
+      68,
+      133,
+      28,
+      116
+    ],
+    "y": [
+      208,
+      36,
+      206,
+      35,
+      218,
+      243,
+      224,
+      134,
+      30
+    ]
+  },
+  {
+    "sample": 1,
+    "normalized": true,
+    "seed": 29260957,
+    "xor_count": 1673,
+    "naive_xor_count": 2179,
+    "timed_out": false,
+    "stage": "local_reduction",
+    "wall_seconds": 7.922610427000109,
+    "x": [
+      94,
+      225,
+      189,
+      10,
+      170,
+      68,
+      133,
+      28,
+      116
+    ],
+    "y": [
+      208,
+      36,
+      206,
+      35,
+      218,
+      243,
+      224,
+      134,
+      30
+    ]
+  },
+  {
+    "sample": 2,
+    "normalized": false,
+    "seed": 29260958,
+    "xor_count": 1860,
+    "naive_xor_count": 2649,
+    "timed_out": false,
+    "stage": "local_reduction",
+    "wall_seconds": 9.858143439001651,
+    "x": [
+      101,
+      224,
+      189,
+      55,
+      77,
+      186,
+      214,
+      203,
+      208
+    ],
+    "y": [
+      183,
+      51,
+      152,
+      237,
+      172,
+      130,
+      62,
+      40,
+      134
+    ]
+  },
+  {
+    "sample": 2,
+    "normalized": true,
+    "seed": 29260959,
+    "xor_count": 1678,
+    "naive_xor_count": 2156,
+    "timed_out": false,
+    "stage": "local_reduction",
+    "wall_seconds": 7.950540657000602,
+    "x": [
+      101,
+      224,
+      189,
+      55,
+      77,
+      186,
+      214,
+      203,
+      208
+    ],
+    "y": [
+      183,
+      51,
+      152,
+      237,
+      172,
+      130,
+      62,
+      40,
+      134
+    ]
+  },
+  {
+    "sample": 3,
+    "normalized": false,
+    "seed": 29260960,
+    "xor_count": 1883,
+    "naive_xor_count": 2571,
+    "timed_out": false,
+    "stage": "local_reduction",
+    "wall_seconds": 10.741557529001511,
+    "x": [
+      209,
+      141,
+      84,
+      9,
+      73,
+      239,
+      102,
+      25,
+      153
+    ],
+    "y": [
+      47,
+      49,
+      36,
+      205,
+      148,
+      114,
+      35,
+      202,
+      219
+    ]
+  },
+  {
+    "sample": 3,
+    "normalized": true,
+    "seed": 29260961,
+    "xor_count": 1810,
+    "naive_xor_count": 2129,
+    "timed_out": false,
+    "stage": "local_reduction",
+    "wall_seconds": 8.29733866099923,
+    "x": [
+      209,
+      141,
+      84,
+      9,
+      73,
+      239,
+      102,
+      25,
+      153
+    ],
+    "y": [
+      47,
+      49,
+      36,
+      205,
+      148,
+      114,
+      35,
+      202,
+      219
+    ]
+  }
+]

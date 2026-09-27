@@ -1,0 +1,23 @@
+{
+  "unittest_command": "python3 -m unittest discover -s tests -v",
+  "test_methods_passed": 10,
+  "reported_seconds": 10.576,
+  "original_fixture_xor_counts": [
+    1,
+    1,
+    3,
+    2,
+    5,
+    1,
+    3,
+    1,
+    3,
+    1,
+    3
+  ],
+  "all_field_products_checked": 65536,
+  "all_coefficient_input_pairs_checked": 65536,
+  "random_invertible_matrix_cases": 20,
+  "input_vectors_per_random_matrix": 256,
+  "note": "Recorded from the successful test run in this session; full-dimension MDS verification is in each examples/validated_run/m*/verification.json."
+}

@@ -1,0 +1,38 @@
+{
+  "address_sanitizer": true,
+  "undefined_behavior_sanitizer": true,
+  "leak_detection": false,
+  "leak_detection_note": "LeakSanitizer cannot inspect /proc tasks in this execution environment; address and undefined-behavior checks remained enabled.",
+  "cases": [
+    {
+      "seed": 0,
+      "xor_count": 12,
+      "exact_circuit_verified": true
+    },
+    {
+      "seed": 1,
+      "xor_count": 13,
+      "exact_circuit_verified": true
+    },
+    {
+      "seed": 2,
+      "xor_count": 15,
+      "exact_circuit_verified": true
+    },
+    {
+      "seed": 3,
+      "xor_count": 12,
+      "exact_circuit_verified": true
+    },
+    {
+      "seed": 4,
+      "xor_count": 13,
+      "exact_circuit_verified": true
+    },
+    {
+      "seed": 5,
+      "xor_count": 14,
+      "exact_circuit_verified": true
+    }
+  ]
+}

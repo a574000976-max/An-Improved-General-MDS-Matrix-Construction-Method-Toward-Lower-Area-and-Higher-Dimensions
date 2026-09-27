@@ -1,0 +1,33 @@
+{
+  "base_circuit_exact": true,
+  "field_binary_checks": 32,
+  "mds_certificate": "Cauchy determinant formula with distinct disjoint X,Y; nonzero row/column scaling",
+  "base_minors": {
+    "mds": true,
+    "checked": 48619,
+    "seconds": 0.004912282000077539
+  },
+  "lifts": {
+    "16": {
+      "xor_count": 3346,
+      "circuit_exact": true,
+      "block_diagonal_structure_exact": true,
+      "mds": "inherited from verified base; each minor is permutation-equivalent to copies of its base minor"
+    },
+    "32": {
+      "xor_count": 6692,
+      "circuit_exact": true,
+      "block_diagonal_structure_exact": true,
+      "mds": "inherited from verified base; each minor is permutation-equivalent to copies of its base minor"
+    },
+    "64": {
+      "xor_count": 13384,
+      "circuit_exact": true,
+      "block_diagonal_structure_exact": true,
+      "mds": "inherited from verified base; each minor is permutation-equivalent to copies of its base minor"
+    }
+  },
+  "search_and_verification_seconds": 73.89651792199948,
+  "candidate_count": 8,
+  "timed_out_candidates": 0
+}
